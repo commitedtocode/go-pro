@@ -5,6 +5,6 @@ A high performance cloud provisioning engine for provisioning AWS, Openstack clo
   * Go lang
   * Async messaging 
   * Websocket
-  * NoSQL
+  * MySQL
 
 WIP
