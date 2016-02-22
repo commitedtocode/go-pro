@@ -3,7 +3,7 @@ A high performance cloud provisioning engine for provisioning AWS, Openstack clo
 
 # Tech Artificats:
   * Go lang
-  * Aynch messaging 
+  * Async messaging 
   * Websocket
   * NoSQL
 
