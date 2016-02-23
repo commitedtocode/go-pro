@@ -7,4 +7,4 @@ A high performance cloud provisioning engine for provisioning AWS, Openstack clo
   * Websocket
   * MySQL
 
-WIP
+Work In Progress
